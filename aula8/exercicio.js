@@ -19,5 +19,3 @@ imc =  peso / (altura * altura);
 
 console.log(nome, sobrenome, 'possui', calculaIdade, 'anos', ', pesa', peso, 'kg')
 console.log('possui', altura, 'e seu IMC é de', imc)
-
-console.log('teste')
