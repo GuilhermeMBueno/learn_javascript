@@ -5,7 +5,7 @@ Este código abaixo executa apenas em navegadores.
 Pois ele aguarda uma introduçao de valor do usuario.
 Que é o comando Prompt.
 */
-/*
+
 
 let num1 = prompt('Insira valor 1')
 let num2 = prompt('Insira valor 2')
@@ -13,7 +13,7 @@ num1 = Number(num1)
 num2 = Number(num2)
 console.log(num1 + num2)
 
-*/
+
 //Já no node, ficaria mais ou menos assim: 
 
 let num1 
