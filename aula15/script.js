@@ -15,7 +15,7 @@ console.log(aleatorio);
 console.log(Math.pow(2, 10))
 
 let num2 = 9 
-console.log(num2 ** (1/2))
+console.log(num2 ** (1/2)) // Raiz quadrada
 
 console.log(100 / 0);  // = Infinity 
 console.log(typeof(100 / 0.0000))
